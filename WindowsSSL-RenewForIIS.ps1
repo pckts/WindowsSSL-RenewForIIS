@@ -1,5 +1,3 @@
-# Created by packet for https://www.parceu.com
-
 # Assisted method of renewing SSL certificate on an IIS server via a simple GUI
 # Must be run on a web server
 
